@@ -1,5 +1,5 @@
-*/keys/
-*/.venv/
-*/Notebooks/
-*/__pycache__
-*/.DS_Store
+keys/
+.venv/
+Notebooks/
+__pycache__/
+.DS_Store
