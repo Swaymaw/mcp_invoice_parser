@@ -1,0 +1,4 @@
+*/keys/
+*/.venv/
+*/Notebooks/
+*/__pycache__
