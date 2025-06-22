@@ -13,9 +13,8 @@
 ### Sever:
 
 - [x] Upload invoice data in google sheet (Service account)
-- [ ] Upload item data in google sheet
-- [ ] MCP Endpoints for uploading data
-- [ ] Retrieve based on invoice number
+- [x] Upload item data in google sheet
+- [x] Retrieve based on invoice number
 - [ ] Allow different query strategies for model to get data for particular use-cases
 - [ ] Create additional endpoints to do analysis (forecasting) on invoice data uploaded on sheets
 
