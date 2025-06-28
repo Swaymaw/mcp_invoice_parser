@@ -162,4 +162,4 @@ def get_invoice_data_from_sheets_via_invoice_number(InvoiceNo: int) -> str:
 
 
 if __name__ == "__main__":
-    mcp.run(transport="stdio")
+    mcp.run(transport="streamable-http")

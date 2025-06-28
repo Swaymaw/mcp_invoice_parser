@@ -7,8 +7,8 @@
 ### Client:
 
 - [x] Parse invoice data (image to text) VLM (Gemini)
-- [ ] Connect Gemini API with our MCP server
-- [ ] Answer user’s query based on the data received
+- [x] Connect Gemini API with our MCP server
+- [x] Create a Robyn Server to intereact with client (Backend)
 
 ### Sever:
 
